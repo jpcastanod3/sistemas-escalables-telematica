@@ -16,21 +16,21 @@ Como estrategia alternativa, creamos nuevamente una máquina virtual para empeza
 
 - Teniendo ya una máquina virtual funcionando con wordpress, utilizamos un dominio ofrecido por freenom "atenea.ml"
 
-![freenom](images/img1.jpg)
+![freenom](images/img1.JPG)
 
 - Luego de tener el dominio, nos registramos en cloudflare para asociarle este dominio, inicialmente registramos el sitio: 
 
-![cloudflare](images/img2.jpg)
+![cloudflare](images/img2.JPG)
 
 - Después de tener registrado el dominio, configuramos los registros DNS para que nuestro dominio resolviera la ip elástica de nuestra máquina virtual.
 
-![DNS](images/img3.jpg)
+![DNS](images/img3.JPG)
 
 - Finalmente, para poder que clodflare fuera el encargado de administrar este dominio, nos ofrecía dos DNS autoritarios, los cuales cambiamos en freenom, para que quedaran delegados a estos mismos. 
 
-![autoritarios](images/img4.jpg)
+![autoritarios](images/img4.JPG)
 
-![autoritariosCf](images/img5.jpg)
+![autoritariosCf](images/img5.JPG)
 
 
 ### **Características funcionales:**
