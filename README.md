@@ -73,6 +73,6 @@ En actividad están todas las interacciones que han realizado los usuarios, es a
 - Mateo Montes Loaiza: mmontesl1@eafit.edu.co
 
 **URL:**
-- www.atenea.ml
+- www.ateneaenterprise.tk
 
 ***PROYECTO EN PROGRESO***
